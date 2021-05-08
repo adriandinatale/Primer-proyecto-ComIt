@@ -1,0 +1,31 @@
+
+h1
+{
+    color: dimgray;
+    font-size: 20;
+    font-style: oblique;
+    
+}
+h2
+{
+    color: black;
+    font-size: 10;
+    font-style: normal; 
+    background-color: lightblue;   
+}
+nav {
+    background-color: lightblue;
+    font-size: 1.5em ;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    
+}
